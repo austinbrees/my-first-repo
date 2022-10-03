@@ -1,5 +1,5 @@
 
 
-def sum(a, b):
+def tomato(a, b):
     return a + b
 
